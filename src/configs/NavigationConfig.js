@@ -41,7 +41,7 @@ const adminAdminNavTree = [
   {
     key: 'admindash',
     path: `${APP_PREFIX_PATH}/home`,
-    title: 'Admin',
+    title: 'Administrator',
     icon: DashboardOutlined,
     breadcrumb: false,
     submenu: [
@@ -65,7 +65,7 @@ const adminAdminNavTree = [
       {
         key: 'jobs',
         path: `${APP_PREFIX_PATH}/jobs`,
-        title: 'Sporting Codes',
+        title: 'Olympic Games Event',
         icon: FileSearchOutlined,
         breadcrumb: false,
         submenu: [],

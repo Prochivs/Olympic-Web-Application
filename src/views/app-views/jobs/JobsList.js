@@ -240,7 +240,7 @@ const ProductList = () => {
             icon={<PlusCircleOutlined />}
             block
           >
-            Add New Sporting Code
+            Add New Olympic Event
           </Button>
         </div>
       </Flex>
